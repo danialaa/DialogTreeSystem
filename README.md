@@ -24,7 +24,7 @@ You can edit the dialog background image, text fonts, colors, position/size of e
 
 # Dialog Tree in JSON
 
-An example of the JSON structure required is attached [here](dialog_example.json). Which contain a list of text nodes along with its options (a max of 3).
+An example of the JSON structure required is attached [here](Assets/Resources/dialog_example.json). Which contain a list of text nodes along with its options (a max of 3).
 
 # Future work
 
