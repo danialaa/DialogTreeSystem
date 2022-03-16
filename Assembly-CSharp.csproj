@@ -56,10 +56,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Controllers\DialogController.cs" />
+    <Compile Include="Assets\Scripts\Models\DialogTreeNode.cs" />
     <Compile Include="Assets\Scripts\Views\DialogView.cs" />
     <Compile Include="Assets\Scripts\Models\DialogTree.cs" />
-    <Compile Include="Assets\Scripts\Models\DialogTreeNode.cs" />
+    <Compile Include="Assets\Scripts\Controllers\DialogController.cs" />
+    <Compile Include="Assets\Scripts\Controllers\DialogOpener.cs" />
+    <Compile Include="Assets\Scripts\Controllers\SceneController.cs" />
+    <Compile Include="Assets\Scripts\Models\DialogOption.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
