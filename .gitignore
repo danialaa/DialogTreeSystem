@@ -22,3 +22,4 @@ ExportedObj/
 *.pdb
 *.pidb.meta
 sysinfo.txt
+*.log
