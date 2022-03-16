@@ -6,7 +6,7 @@
 /.vs/
 /.vscode/
 /UnityPackageManager/
-Logs/*
+Logs\*
 ExportedObj/
 .consulo/
 *.csproj
